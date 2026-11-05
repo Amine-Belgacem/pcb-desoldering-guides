@@ -1,6 +1,6 @@
 # PCB Desoldering Guides
 
-Two illustrated bench guides for removing through-hole components and reopening solder-filled holes on a printed circuit board (PCB).
+Two practical bench guides for removing through-hole components and reopening solder-filled holes on a printed circuit board (PCB).
 
 ## Choose a guide
 
@@ -17,7 +17,7 @@ A plated through-hole has a copper lining, called the **barrel**, that connects 
 
 ![Labelled cross-section showing the PCB, copper pads and barrel, solder, and component lead.](images/through-hole-joint.svg)
 
-The drawings use the same colours throughout: green for the PCB, orange for copper, grey for solder, and dark blue for the lead or needle. They are schematic cross-sections, not dimensions for making a tool.
+The diagram uses green for the PCB, orange for copper, grey for solder, and dark blue for the component lead. It is a schematic cross-section, not a dimensioned drawing.
 
 ## Before working
 

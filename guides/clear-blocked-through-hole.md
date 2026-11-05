@@ -6,8 +6,6 @@ Use this method when the component has already been removed, but pumping or wick
 
 Reflow the plug, slide a smooth stainless-steel needle through the liquid solder, and hold it still while the solder hardens. Withdraw the needle after cooling to leave a central passage. Some solder will remain on the copper barrel.
 
-![Four stages: reflow the solder plug; insert a smooth needle while solder is liquid; remove the iron and hold the needle while solder hardens; withdraw the needle and inspect the passage.](../images/needle-clearing-sequence.svg)
-
 ## Tools and preparation
 
 Have a temperature-controlled iron, electronics flux, a small amount of fresh electronics solder, a PCB holder, tweezers or pliers, and good lighting or a magnifier. Use a compatible flux cleaner and swab if cleanup is needed.

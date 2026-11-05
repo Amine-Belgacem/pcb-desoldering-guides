@@ -5,7 +5,7 @@
  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#35556d"/></marker>
  <pattern id="braid" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#d9aa6d"/><path d="M-3 0 L9 12 M3 0 L15 12 M-3 12 L9 0 M3 12 L15 0" stroke="#9b6633" stroke-width="1.4"/></pattern>
 </defs>
-<g font-family="Segoe UI,Arial,sans-serif"><rect x="0" y="0" width="1120" height="632" rx="0" fill="white" stroke="none" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif"><rect x="1" y="1" width="1118" height="630" rx="0" fill="white" stroke="#d8dee4" stroke-width="2"/>
 <text x="32" y="34" font-size="16" font-weight="700" fill="#24745d" text-anchor="start">PCB DESOLDERING / JOINT ANATOMY</text>
 <text x="32" y="78" font-size="32" font-weight="700" fill="#183346" text-anchor="start">Solder can hold a lead inside the board</text>
 <text x="32" y="111" font-size="22" font-weight="400" fill="#536674" text-anchor="start">A clear surface pad does not prove that the lead is free.</text>

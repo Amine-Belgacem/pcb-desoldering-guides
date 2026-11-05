@@ -6,8 +6,6 @@ Use a desoldering pump to extract solder from around the leads, then use solder 
 
 This method keeps two separate pump attempts, with inspection, fresh flux, and a pin-freedom test between them.
 
-![Six stages: refresh the joint; pump once; inspect, flux again and test the lead; pump again if solder still holds it; finish with wick; verify, remove and clean.](../images/pump-and-wick-sequence.svg)
-
 ## Tools and preparation
 
 Have a temperature-controlled iron with a clean, suitably sized tip, electronics flux, fresh electronics solder, a primed desoldering pump, solder wick, a PCB holder, tweezers or small pliers, and a compatible flux cleaner with a brush or swab.
