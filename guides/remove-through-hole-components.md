@@ -1,129 +1,46 @@
-[← All guides](../README.md) · Component removal
-
 # Remove a Through-Hole Component
 
-Free the leads with a desoldering pump, finish with wick, and lift the component only when every lead is free.
+Remove solder with a pump, clean up with wick, then lift the component once every lead is free.
 
-**Use this guide when:** a through-hole component is still held by solder.
+## Tools
 
-**Finish when:** the component lifts freely and the pads and barrels are ready for inspection.
+- Temperature-controlled iron, electronics flux, and fresh solder
+- Desoldering pump and solder wick
+- PCB holder and tweezers or small pliers
+- Compatible flux cleaner and a brush or swab
 
-[Before you start](#before-you-start) · [Prepare](#prepare-the-joint) · [Pump and check](#pump-and-check-the-lead) · [Finish](#finish-and-remove) · [Troubleshooting](#troubleshooting)
+Disconnect power and batteries and address stored capacitor charge before starting. Wear eye protection, ventilate fumes, and never pull against a soldered lead.
 
----
+## Steps
 
-## Before you start
+1. **Secure the board.** Support the PCB so operating the pump cannot move or bend it. Identify every lead and mechanical tab holding the component.
 
-- **Heat:** temperature-controlled iron with a clean, suitably sized tip; electronics flux; fresh electronics solder.
-- **Remove solder:** primed desoldering pump and solder wick.
-- **Hold and inspect:** PCB holder, tweezers or small pliers.
-- **Clean:** compatible flux cleaner and a brush or swab.
+2. **Heat the joint.** Touch the iron to the pad and lead together. Starting iron settings are approximately 320–350°C for tin-lead solder and 350–380°C for some lead-free joints; adjust for your alloy, tip, and board. If the joint does not melt promptly, improve tip contact rather than pressing harder or heating for longer.
 
-> [!CAUTION]
-> Disconnect power and batteries and address stored capacitor charge. Wear eye protection and use fume ventilation. Never pull against a soldered lead or lever a tool against a copper pad.
+3. **Apply flux.** Add electronics flux to help the old solder wet and flow.
 
-**Sequence:** prepare the joint → first pump → inspect, flux again, and test the lead → second pump if needed → wick → verify, remove, and clean.
+4. **Add fresh solder and pump once.** Melt a little fresh solder into the joint. Keep the pump primed and close by, with its nozzle roughly perpendicular to the PCB. Once the whole joint is liquid, move the iron aside, immediately position the nozzle, and trigger the pump. Reflow the solder first if it freezes before suction.
 
-## Prepare the joint
+5. **Inspect the hole.** Look at both faces of the PCB. A clear surface pad can still hide solder inside the barrel or on the far side.
 
-### 1. Secure the board
+6. **Apply flux again.** Add fresh flux to the remaining solder before reheating.
 
-Support the PCB so the pump cannot shift or bend it. Identify every lead and any mechanical tabs holding the component.
+7. **Test the lead.** Add a little solder if needed for heat transfer, then heat the pad and lead together. While the solder is molten, use the iron tip to check for slight lead movement. Do not pry, bend the lead, or press against the barrel. This check comes before the second pump attempt.
 
-### 2. Heat the joint
+8. **Pump a second time.** If solder still holds the lead, reheat it until fully liquid, then move the iron away and immediately trigger the primed pump over the joint. Avoid unnecessary reheating if the lead is already free.
 
-Touch the iron to the pad and lead together. Aim to melt the whole joint promptly. If only the surface softens, improve tip contact rather than pressing harder or keeping the iron on the pad for a long time.
+9. **Finish with wick.** Lay clean, appropriately fluxed braid over small remaining deposits and rest the hot iron on top with light pressure. Lift the iron and braid together while hot. Use fresh braid when saturated; reheat it if it sticks, and do not drag it over the pad. Wick follows the second pump attempt when solder still holds the lead.
 
-For typical tin-lead solder, **320–350°C** is an approximate starting iron setting; some lead-free joints need **350–380°C**. These are tool settings, not solder melting temperatures. Adjust for the tip, alloy, board, and connected copper.
+10. **Check every lead.** Inspect both sides and confirm that no lead is still held by solder. Add flux, reheat, and use wick on remaining deposits as needed. Let the board cool between repeated attempts.
 
-### 3. Apply flux
+11. **Remove the component.** Lift it gently from the opposite side of the board. If it catches, stop and inspect the leads and tabs again. Do not pull harder or lever against a pad.
 
-Apply electronics flux to the joint to help the old solder wet and flow.
+12. **Clean and inspect.** Let the board cool, remove compatible flux residue, and let it dry completely. Inspect the pads and barrels before fitting a replacement.
 
-**Checkpoint:** the board is stable, and the fluxed joint is ready to reflow.
+Stop if a pad moves, the board scorches, or controlled attempts do not free the lead. A temperature-controlled vacuum tool or professional rework may be more suitable.
 
-## Pump and check the lead
+If the component is out but its hole remains blocked, follow [Clear a blocked through-hole](clear-blocked-through-hole.md).
 
-### 4. Add fresh solder and pump once
+Further reading: [Circuit Technology Center](https://www.circuitrework.com/guides/7-1-2.html) · [Chemtronics wick guide](https://www.chemtronics.com/desoldering-wick-application-guide)
 
-1. Melt a small amount of fresh solder into the joint to improve thermal contact.
-2. Keep the primed pump close to the joint, with its nozzle roughly perpendicular to the board.
-3. Heat the pad and lead until the solder is fully liquid.
-4. Move the iron aside, immediately place the nozzle over the joint, and trigger the **first pump attempt**.
-
-If the solder freezes before suction, the pump will remove little. Reflow it before another attempt.
-
-### 5. Inspect the hole
-
-Look at both faces of the PCB. A clear surface pad can still hide solder inside the barrel or on the far side.
-
-### 6. Apply flux again
-
-Add fresh flux to the remaining solder before reheating the joint.
-
-### 7. Test whether the lead is free
-
-Add a little fresh solder if needed for heat transfer, then heat the pad and lead together. While the solder is molten, use the iron tip to check for slight lead movement. Do not pry, bend the lead, or press against the barrel.
-
-Resistance means the lead is still held. This check comes **before** the second pump attempt.
-
-### 8. Pump a second time
-
-If solder still holds the lead, reheat the remaining solder until fully liquid. With the pump primed and ready, move the iron away, position the nozzle, and trigger the **second pump attempt**.
-
-If the lead is already completely free, avoid unnecessary reheating.
-
-## Finish and remove
-
-### 9. Finish with solder wick
-
-1. Lay a clean, appropriately fluxed section of braid over the remaining solder.
-2. Rest the hot iron on the braid so heat reaches the solder underneath. Use light pressure.
-3. When solder flows into the braid, lift the **iron and braid together while hot**.
-
-Use a fresh section when the braid is saturated. If it sticks to the pad, reheat it before lifting. Do not drag it across the copper.
-
-Wick is the finishing step for small deposits; keep the second pump attempt ahead of it when solder still holds the lead.
-
-### 10. Confirm every lead is free
-
-Check each lead and both sides of the board. If a deposit remains, add flux, reheat, and use wick as needed. Allow cooling between repeated attempts.
-
-### 11. Remove the component
-
-Gently lift the component from the opposite side of the board. If it catches, stop and inspect all leads and tabs again. Do not pull harder or use a pad as a fulcrum.
-
-### 12. Clean and inspect
-
-Let the board cool. Remove compatible flux residue with a suitable cleaner, then let it dry completely. Inspect the pads and barrels before fitting a replacement.
-
-If the component is out but solder still blocks a hole, see [Clear a blocked through-hole](clear-blocked-through-hole.md).
-
-**Finished:** every lead is free, the component is removed, and the cleaned board is dry and inspected.
-
----
-
-## Troubleshooting
-
-| Symptom | What to check |
-| --- | --- |
-| Solder beads up or will not flow | Clean the tip, add flux, and mix in a little fresh solder. |
-| The pump removes little | Reflow the whole joint and shorten the move from iron to pump. Check nozzle placement. |
-| The surface looks clear but the lead is stuck | Inspect the barrel and far side; follow the flux, pin-test, and second-pump steps. |
-| Wick does not absorb solder | Use a fresh section, suitable flux, and good contact between iron, braid, and joint. |
-| A large ground connection will not reflow | Use suitable tip size and thermal capacity; consider controlled PCB preheating. |
-| The pad moves or the PCB scorches | Stop. Repeated heating or force can damage the pad and barrel. |
-
-If controlled attempts do not free the lead, stop and consider a temperature-controlled vacuum desoldering tool or professional rework.
-
-<details>
-<summary><strong>Technical references</strong></summary>
-
-- [Circuit Technology Center — Preparation for soldering and component removal](https://www.circuitrework.com/guides/7-1-2.html): tool selection, heat transfer, and board preparation.
-- [Chemtronics — Desoldering wick application guide](https://www.chemtronics.com/desoldering-wick-application-guide): braid placement, fresh sections, and lifting braid with the iron.
-
-</details>
-
----
-
-[← All guides](../README.md) · [Next: clear a blocked through-hole →](clear-blocked-through-hole.md)
+[All guides](../README.md)
