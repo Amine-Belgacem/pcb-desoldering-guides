@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1040" viewBox="0 0 1120 1040" role="img" aria-labelledby="title desc">
+<title id="title">Needle method for a solder-blocked empty through-hole</title>
+<desc id="desc">Four panels show flux and fresh solder and full reflow, needle insertion while molten, cooling with the iron removed and needle held still, and straight withdrawal after the solder hardens. The final passage retains copper plating and residual solder.</desc>
+<defs>
+ <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#35556d"/></marker>
+ <pattern id="braid" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#d9aa6d"/><path d="M-3 0 L9 12 M3 0 L15 12 M-3 12 L9 0 M3 12 L15 0" stroke="#9b6633" stroke-width="1.4"/></pattern>
+</defs>
+<g font-family="Segoe UI,Arial,sans-serif"><rect x="0" y="0" width="1120" height="1040" rx="0" fill="white" stroke="none" stroke-width="2"/>
+<text x="32" y="34" font-size="16" font-weight="700" fill="#24745d" text-anchor="start">PCB DESOLDERING / EMPTY-HOLE CLEARING</text>
+<text x="32" y="78" font-size="32" font-weight="700" fill="#183346" text-anchor="start">Hold the opening while the solder cools</text>
+<text x="32" y="111" font-size="22" font-weight="400" fill="#536674" text-anchor="start">Use only after the component is removed and the hole remains blocked.</text>
+<g transform="translate(24 138)">
+<rect x="0" y="0" width="528" height="382" rx="14" fill="#f6f8f9" stroke="#dce4e8" stroke-width="2"/>
+<rect x="22" y="18" width="35" height="35" rx="10" fill="#24745d" stroke="none" stroke-width="2"/>
+<text x="39.5" y="43" font-size="22" font-weight="700" fill="white" text-anchor="middle">1</text>
+<text x="72" y="44" font-size="25" font-weight="700" fill="#183346" text-anchor="start">Reflow the solder plug</text>
+<text x="24" y="82" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Add flux and a little fresh solder.</text>
+<rect x="52" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="296" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="232" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="240" y="193" width="48" height="106" rx="4" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<path d="M186 184 Q179 173 186 163 Q193 153 186 143" fill="none" stroke="#bf4b3b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M322 184 Q315 173 322 163 Q329 153 322 143" fill="none" stroke="#bf4b3b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M405 124 L305 177" fill="none" stroke="#183346" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M305 177 L285 192" fill="none" stroke="#728795" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M287 192 L281 196" fill="none" stroke="#b7c1ca" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M114 131 Q169 139 219 189" fill="none" stroke="#8297a4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<text x="264" y="362" font-size="20" font-weight="400" fill="#183346" text-anchor="middle">Melt the plug through the full thickness.</text>
+</g>
+<g transform="translate(568 138)">
+<rect x="0" y="0" width="528" height="382" rx="14" fill="#f6f8f9" stroke="#dce4e8" stroke-width="2"/>
+<rect x="22" y="18" width="35" height="35" rx="10" fill="#24745d" stroke="none" stroke-width="2"/>
+<text x="39.5" y="43" font-size="22" font-weight="700" fill="white" text-anchor="middle">2</text>
+<text x="72" y="44" font-size="25" font-weight="700" fill="#183346" text-anchor="start">Insert while molten</text>
+<text x="24" y="82" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Slide a smooth needle straight through.</text>
+<rect x="52" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="296" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="232" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="240" y="193" width="48" height="106" rx="4" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<rect x="254" y="133" width="20" height="190" rx="7" fill="#35556d" stroke="none" stroke-width="2"/>
+<rect x="257" y="139" width="3" height="175" rx="1" fill="#87a4b6" stroke="none" stroke-width="2"/>
+<path d="M186 184 Q179 173 186 163 Q193 153 186 143" fill="none" stroke="#bf4b3b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M322 184 Q315 173 322 163 Q329 153 322 143" fill="none" stroke="#bf4b3b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M405 124 L305 177" fill="none" stroke="#183346" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M305 177 L285 192" fill="none" stroke="#728795" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M287 192 L281 196" fill="none" stroke="#b7c1ca" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M308 133 L308 177" fill="none" stroke="#35556d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="264" y="362" font-size="20" font-weight="400" fill="#183346" text-anchor="middle">Keep the solder liquid; do not force it.</text>
+</g>
+<g transform="translate(24 540)">
+<rect x="0" y="0" width="528" height="382" rx="14" fill="#eff7f3" stroke="#aecdbf" stroke-width="2"/>
+<rect x="22" y="18" width="35" height="35" rx="10" fill="#24745d" stroke="none" stroke-width="2"/>
+<text x="39.5" y="43" font-size="22" font-weight="700" fill="white" text-anchor="middle">3</text>
+<text x="72" y="44" font-size="25" font-weight="700" fill="#183346" text-anchor="start">Let the solder harden</text>
+<text x="24" y="82" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Remove the iron; hold the needle still.</text>
+<rect x="52" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="296" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="232" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="240" y="193" width="48" height="106" rx="4" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<rect x="254" y="133" width="20" height="190" rx="7" fill="#35556d" stroke="none" stroke-width="2"/>
+<rect x="257" y="139" width="3" height="175" rx="1" fill="#87a4b6" stroke="none" stroke-width="2"/>
+<circle cx="391" cy="237" r="27" fill="white" stroke="#536674" stroke-width="2"/>
+<path d="M391 219 V238 L404 246" fill="none" stroke="#536674" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<text x="264" y="362" font-size="20" font-weight="400" fill="#183346" text-anchor="middle">Keep the needle in place during cooling.</text>
+</g>
+<g transform="translate(568 540)">
+<rect x="0" y="0" width="528" height="382" rx="14" fill="#f6f8f9" stroke="#dce4e8" stroke-width="2"/>
+<rect x="22" y="18" width="35" height="35" rx="10" fill="#24745d" stroke="none" stroke-width="2"/>
+<text x="39.5" y="43" font-size="22" font-weight="700" fill="white" text-anchor="middle">4</text>
+<text x="72" y="44" font-size="25" font-weight="700" fill="#183346" text-anchor="start">Withdraw, then inspect</text>
+<text x="24" y="82" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Pull straight out after solidification.</text>
+<rect x="52" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="296" y="202" width="180" height="88" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="232" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="202" width="8" height="88" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="208" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="194" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="288" y="290" width="32" height="8" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="240" y="196" width="14" height="100" rx="2" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<rect x="274" y="196" width="14" height="100" rx="2" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<rect x="254" y="115" width="20" height="62" rx="7" fill="#35556d" stroke="none" stroke-width="2"/>
+<rect x="257" y="122" width="3" height="47" rx="1" fill="#87a4b6" stroke="none" stroke-width="2"/>
+<path d="M308 175 L308 130" fill="none" stroke="#35556d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M384 244 L398 257 L426 224" fill="none" stroke="#24745d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<text x="264" y="362" font-size="20" font-weight="400" fill="#183346" text-anchor="middle">Lead fits freely; copper stays intact.</text>
+</g>
+<rect x="32" y="953" width="26" height="19" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<text x="70" y="969" font-size="21" font-weight="400" fill="#536674" text-anchor="start">PCB</text>
+<rect x="210" y="953" width="26" height="19" rx="3" fill="#d48545" stroke="none" stroke-width="2"/>
+<text x="248" y="969" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Copper</text>
+<rect x="438" y="953" width="26" height="19" rx="3" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<text x="476" y="969" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Solder</text>
+<rect x="665" y="953" width="26" height="19" rx="3" fill="#35556d" stroke="none" stroke-width="2"/>
+<text x="703" y="969" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Lead / needle</text>
+<text x="32" y="1012" font-size="20" font-weight="400" fill="#536674" text-anchor="start">Schematic cross-sections. Grey solder remains on the barrel around the new central passage.</text>
+</g></svg>

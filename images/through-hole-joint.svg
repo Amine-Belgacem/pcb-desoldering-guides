@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="632" viewBox="0 0 1120 632" role="img" aria-labelledby="title desc">
+<title id="title">Anatomy of a plated through-hole solder joint</title>
+<desc id="desc">Labelled cross-section showing the component lead, solder inside the copper barrel, surface pads, and PCB substrate. Copper pads are rings, with no copper blocking the bore.</desc>
+<defs>
+ <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#35556d"/></marker>
+ <pattern id="braid" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#d9aa6d"/><path d="M-3 0 L9 12 M3 0 L15 12 M-3 12 L9 0 M3 12 L15 0" stroke="#9b6633" stroke-width="1.4"/></pattern>
+</defs>
+<g font-family="Segoe UI,Arial,sans-serif"><rect x="0" y="0" width="1120" height="632" rx="0" fill="white" stroke="none" stroke-width="2"/>
+<text x="32" y="34" font-size="16" font-weight="700" fill="#24745d" text-anchor="start">PCB DESOLDERING / JOINT ANATOMY</text>
+<text x="32" y="78" font-size="32" font-weight="700" fill="#183346" text-anchor="start">Solder can hold a lead inside the board</text>
+<text x="32" y="111" font-size="22" font-weight="400" fill="#536674" text-anchor="start">A clear surface pad does not prove that the lead is free.</text>
+<rect x="334" y="240" width="182" height="160" rx="4" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="594" y="240" width="182" height="160" rx="4" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<rect x="516" y="240" width="8" height="160" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="586" y="240" width="8" height="160" rx="0" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="482" y="230" width="42" height="10" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="482" y="400" width="42" height="10" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="586" y="230" width="42" height="10" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="586" y="400" width="42" height="10" rx="1" fill="#d48545" stroke="none" stroke-width="2"/>
+<rect x="524" y="238" width="23" height="164" rx="0" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<rect x="563" y="238" width="23" height="164" rx="0" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<path d="M492 230 Q516 210 547 218 L547 240 H492Z" fill="#b7c1ca" stroke="#b7c1ca" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M563 218 Q598 210 618 230 V240 H563Z" fill="#b7c1ca" stroke="#b7c1ca" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M492 410 Q516 430 547 422 V400 H492Z" fill="#b7c1ca" stroke="#b7c1ca" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M563 422 Q598 430 618 410 V400 H563Z" fill="#b7c1ca" stroke="#b7c1ca" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="547" y="173" width="16" height="298" rx="2" fill="#35556d" stroke="none" stroke-width="2"/>
+<text x="371" y="318" font-size="28" font-weight="700" fill="#3c7660" text-anchor="start">PCB</text>
+<text x="371" y="348" font-size="20" font-weight="400" fill="#3c7660" text-anchor="start">substrate</text>
+<text x="32" y="181" font-size="23" font-weight="700" fill="#183346" text-anchor="start">Surface pad</text>
+<text x="32" y="210" font-size="20" font-weight="400" fill="#536674" text-anchor="start">Copper on the top face</text>
+<path d="M272 188 H310 L347 213 L484 235" fill="none" stroke="#536674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="484" cy="235" r="4" fill="#183346"/>
+<text x="32" y="440" font-size="23" font-weight="700" fill="#183346" text-anchor="start">Opposite pad</text>
+<text x="32" y="469" font-size="20" font-weight="400" fill="#536674" text-anchor="start">Solder may remain here too</text>
+<path d="M284 450 H322 L359 435 L484 405" fill="none" stroke="#536674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="484" cy="405" r="4" fill="#183346"/>
+<text x="823" y="178" font-size="23" font-weight="700" fill="#183346" text-anchor="start">Component lead</text>
+<text x="823" y="207" font-size="20" font-weight="400" fill="#536674" text-anchor="start">Runs through the joint</text>
+<path d="M811 188 H720 L672 177 H563" fill="none" stroke="#536674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="563" cy="177" r="4" fill="#183346"/>
+<text x="823" y="286" font-size="23" font-weight="700" fill="#183346" text-anchor="start">Solder</text>
+<text x="823" y="315" font-size="20" font-weight="400" fill="#536674" text-anchor="start">Can bond lead to barrel</text>
+<path d="M811 297 H705 L648 316 H575" fill="none" stroke="#536674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="575" cy="316" r="4" fill="#183346"/>
+<text x="823" y="399" font-size="23" font-weight="700" fill="#183346" text-anchor="start">Copper barrel</text>
+<text x="823" y="428" font-size="20" font-weight="400" fill="#536674" text-anchor="start">Thin plating inside the hole</text>
+<path d="M811 410 H728 L662 366 H590" fill="none" stroke="#536674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="590" cy="366" r="4" fill="#183346"/>
+<rect x="32" y="535" width="26" height="19" rx="3" fill="#c9e2d7" stroke="none" stroke-width="2"/>
+<text x="70" y="551" font-size="21" font-weight="400" fill="#536674" text-anchor="start">PCB</text>
+<rect x="210" y="535" width="26" height="19" rx="3" fill="#d48545" stroke="none" stroke-width="2"/>
+<text x="248" y="551" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Copper</text>
+<rect x="438" y="535" width="26" height="19" rx="3" fill="#b7c1ca" stroke="none" stroke-width="2"/>
+<text x="476" y="551" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Solder</text>
+<rect x="665" y="535" width="26" height="19" rx="3" fill="#35556d" stroke="none" stroke-width="2"/>
+<text x="703" y="551" font-size="21" font-weight="400" fill="#536674" text-anchor="start">Lead / needle</text>
+<text x="32" y="601" font-size="20" font-weight="400" fill="#536674" text-anchor="start">Cross-section, not to scale. Internal copper layers are omitted for clarity.</text>
+</g></svg>
